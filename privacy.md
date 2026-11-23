@@ -4,7 +4,7 @@ title: Mergelune — Privacy Policy
 
 # Mergelune — Privacy Policy
 
-*Last updated: November 23, 2026*
+*Last updated: November 24, 2026*
 
 [Türkçe](#türkçe)
 
@@ -19,7 +19,7 @@ Mergelune is a merge puzzle game for Android. We have no accounts and no servers
 
 The game shows ads from **Google AdMob**:
 
-- a short ad now and then after you win a level (never while you play, never after a lost level, never in the first 12 levels), and
+- a short ad now and then after you win a level (never while you play, never after a lost level, never before you have completed 12 levels), and
 - an optional **rewarded ad**: when you run out of moves, you can choose to watch one to get 3 extra moves (once per try). If no ad is available, you can still continue with leaves or try again.
 
 Ads can be removed for good with a one-time purchase; after that, the extra moves offer is free. Ad content is limited to the "PG" (parental guidance) rating.
@@ -71,7 +71,7 @@ luneapps.support@gmail.com
 
 ## Türkçe
 
-*Son güncelleme: 23 Kasım 2026*
+*Son güncelleme: 24 Kasım 2026*
 
 Mergelune, Android için birleştirme bulmacası oyunudur. Hesap ve sunucumuz yok; ad, e-posta ya da başka bir kişisel bilgi asla istemiyoruz. Telefonundan çıkan tek veri, reklamlar ve Google Play satın almaları için Google'a gider.
 
@@ -84,7 +84,7 @@ Mergelune, Android için birleştirme bulmacası oyunudur. Hesap ve sunucumuz yo
 
 Oyun **Google AdMob** reklamları gösterir:
 
-- bir bölümü kazandıktan sonra ara sıra kısa reklam (oyun sırasında, kaybedilen bölümden sonra ve ilk 12 bölümde asla) ve
+- bir bölümü kazandıktan sonra ara sıra kısa reklam (oyun sırasında, kaybedilen bölümden sonra ve 12 bölümü tamamlamadan önce asla) ve
 - isteğe bağlı **ödüllü reklam**: hamlen bitince 3 ek hamle almak için izlemeyi sen seçersin (her denemede bir kez). Reklam yoksa yine yaprakla devam edebilir ya da yeniden deneyebilirsin.
 
 Reklamlar tek seferlik bir satın almayla kalıcı olarak kaldırılabilir; bundan sonra ek hamle teklifi ücretsizdir. Reklam içeriği "PG" (ebeveyn rehberliği) derecesiyle sınırlıdır.
